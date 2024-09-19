@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(141, 198, 236);
+    font-family: sans-serif;
+}
+
+button{
+    color: rgb(103, 219, 103)
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
